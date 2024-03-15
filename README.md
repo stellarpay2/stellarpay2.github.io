@@ -1,2 +1,2 @@
-# stellarpay2.github.io
+# stellarpay.github.io
  
