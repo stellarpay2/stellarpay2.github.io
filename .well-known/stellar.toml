@@ -18,8 +18,8 @@ ORG_DESCRIPTION=": POWER BUY SWEESSCUTODY"
 email="non"
 
 [[CURRENCIES]]
-code ="1BOSS"
-name ="1BOSS"
+code ="CROWN"
+name ="CROWN"
 issuer = "GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 display_decimals = 7
@@ -46,7 +46,7 @@ fixed_number=1000000000
 
 [[CURRENCIES]]
 code ="BTC"
-name ="THIS IS KING"
+name ="BTC"
 issuer = "GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 display_decimals = 7
@@ -58,7 +58,7 @@ anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="Kay"
+code ="LOCK"
 name ="MAKER KAY"
 issuer = "GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
@@ -71,8 +71,8 @@ anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code="CHATGPT"
-name="ChatGPT"
+code="CHATBOT"
+name="Chat"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -94,8 +94,8 @@ anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code="GOLD"
-name="Gold Bond"
+code="XAU"
+name="SWEES GOLD"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -106,8 +106,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="RCEO"
-name="Received of customers"
+code="ROLL"
+name="Received "
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -117,8 +117,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="BOSS"
-name="BOSS"
+code="LOGO"
+name="LOGO"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -128,8 +128,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="BOND"
-name="BOND"
+code="VFX"
+name="VFX"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -139,8 +139,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="T"
-name="T"
+code="TERA"
+name="TERA"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -151,8 +151,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="1oo"
-name="100"
+code="MG100"
+name="MG100"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -162,8 +162,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="Q"
-name="Question"
+code="QXLM"
+name="1X1 WITH XLM"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -174,8 +174,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="Yes"
-name="Yes"
+code="RIGHT"
+name="RIGHT"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -184,7 +184,7 @@ image="https://stellarpay2.github.io/img/YES.png"
 status="live"
 
 [[CURRENCIES]]
-code ="USBS"
+code ="USA"
 name ="UNIT OF USDT"
 issuer = "GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
@@ -200,8 +200,8 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code="SNP500"
-name="S&P"
+code="BULL"
+name="S&P500"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -212,7 +212,7 @@ status="live"
 
 [[CURRENCIES]]
 code="DW"
-name="📛"
+name="DISCOWAR WOLD"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -223,8 +223,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="DEX"
-name="DX"
+code="DOLLAR"
+name="FOR YOU"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -236,7 +236,7 @@ status="live"
 
 [[CURRENCIES]]
 code="POK"
-name="Pakistani Bond"
+name="Pakistani RUPPY"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -269,7 +269,7 @@ status="live"
 
 
 [[CURRENCIES]]
-code="Wallet"
+code="WALLET"
 name="wallet for reword"
 issuer="GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
 is_asset_anchored=false
