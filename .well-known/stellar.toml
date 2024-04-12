@@ -280,3 +280,28 @@ status="live"
 
 
 
+
+[[CURRENCIES]]
+code ="QXRP"
+name ="QRIPPLE"
+issuer = "GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
+display_decimals = 7
+desc="Dove revolutionizes cryptocurrency investment for Stellar (XLM) holders with a unique staking platform. It enables users to amplify their assets by securely staking XLM tokens and earning considerable rewards. Designed for ease of use, Dove caters to investors at all levels, providing an intuitive interface and essential educational resources. Its sophisticated staking system not only safeguards assets but also fosters compound growth, positioning it as a key tool for wealth accumulation. QXRP exemplifies innovation in digital finance, offering a seamless blend of security, accessibility, and profit maximization for the Stellar network community."
+image="https://stellarpay2.github.io/img/01234.png"
+conditions="There will only ever be 75 billion  tokens in existence."
+status="live"
+anchor_asset_type="fiat"
+fixed_number=10000000
+
+
+[[CURRENCIES]]
+code ="SR"
+name ="SR Network"
+issuer = "GC7JONJXXXVADWPKGIOERWUHFVCO5KEWMVRFI742IPEIXBKPVTD3WBPZ"
+display_decimals = 7
+desc="Dove revolutionizes cryptocurrency investment for Stellar (XLM) holders with a unique staking platform. It enables users to amplify their assets by securely staking XLM tokens and earning considerable rewards. Designed for ease of use, Dove caters to investors at all levels, providing an intuitive interface and essential educational resources. Its sophisticated staking system not only safeguards assets but also fosters compound growth, positioning it as a key tool for wealth accumulation. QXRP exemplifies innovation in digital finance, offering a seamless blend of security, accessibility, and profit maximization for the Stellar network community."
+image="https://stellarpay2.github.io/img/0123.png"
+conditions="There will only ever be 75 billion  tokens in existence."
+status="live"
+anchor_asset_type="fiat"
+fixed_number=10000000
